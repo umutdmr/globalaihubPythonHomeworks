@@ -1,3 +1,4 @@
+#Take 4 variables as input. Print them and their types in an order.
 first = input()
 second = input()
 third = input()
